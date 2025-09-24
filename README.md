@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Roshan Sinha</h1>
+<h1 align="center">Hi 👋, I'm Roshan Sinha</h1>
 <h3 align="center">🎓 CSE Student | Aspiring Software Developer 💻 Passionate about Coding & Problem Solving</h3>
 
 - 🌱 I’m currently learning **Programming Language**
