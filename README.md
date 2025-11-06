@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I create YouTube videos**
 
-- 🌐 Check out my **Portfolio**: <a href="https://www.perplexity.ai/apps/76348d4f-3711-4743-808c-fa06219420f6" target="_blank">Click Here</a>
+- 🌐 Check out my **Portfolio**: <a href="https://apps/76348d4f-3711-4743-808c-fa06219420f6" target="_blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
