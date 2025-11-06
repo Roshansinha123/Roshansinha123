@@ -7,8 +7,6 @@
 
 - ⚡ Fun fact **I create YouTube videos**
 
-- 🌐 Check out my **Portfolio**: <a href="https://apps/76348d4f-3711-4743-808c-fa06219420f6" target="_blank">Click Here</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshan-sinha-87a86a299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-sinha-87a86a299" height="30" width="40" /></a>
